@@ -1,0 +1,15 @@
+- 👋 Hi, I’m Rahul Prajapati
+- 👀 I’m interested in jobs like Software Development and Web Development.
+- 🌱 I’m currently in my 5th semester in NIT KURUKSHETRA persuing B.Tech in COMPUTER SCIENCE.
+- 📫 You can reach me by my email-r2h4l1432@gmail.com
+-                           My mobile No-9351556129
+-                           linkedIn ID-https://www.linkedin.com/in/rahul-prajapati-00950a223
+-                           
+Skill I have are-
+ -->  Data structures and algorithms in Java
+ -->  C++ , C and python  Programming Language
+ -->  Web Development-HTML,CSS and Javascript
+ -->  MYSQL and DBMS
+ -->  Mobile app Development
+--MY RESUME-- 
+-->[Rahul Prajapati.pdf](https://github.com/R4hullovescoding/R4hullovescoding/files/9489526/Rahul.Prajapati.pdf)
